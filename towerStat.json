@@ -2483,7 +2483,7 @@
         "Type": "Explosion",
         "Image": "rbxassetid://16781017510",
         "Rarity": "Epic",
-        "PlacePrice": 1250,
+        "PlacePrice": 1500,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -2495,26 +2495,26 @@
             {
                 "Price": 0,
                 "Range": 12,
-                "Damage": 200,
-                "Cooldown": 3
+                "Damage": 400,
+                "Cooldown": 5
             },
             {
-                "Price": 2500,
+                "Price": 3000,
                 "Range": 15,
-                "Damage": 250,
-                "Cooldown": 3
-            },
-            {
-                "Price": 4000,
-                "Range": 15,
-                "Damage": 300,
-                "Cooldown": 2
+                "Damage": 450,
+                "Cooldown": 5
             },
             {
                 "Price": 6000,
-                "Range": 17,
-                "Damage": 300,
-                "Cooldown": 1.5
+                "Range": 15,
+                "Damage": 650,
+                "Cooldown": 5.5
+            },
+            {
+                "Price": 8500,
+                "Range": 20,
+                "Damage": 800,
+                "Cooldown": 6
             }
         ]
     },
@@ -4106,31 +4106,31 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 200,
+                "Damage": 250,
                 "Cooldown": 3.5,
                 "Poison": 10,
                 "PoisonLength": 3
             },
             {
-                "Price": 800,
+                "Price": 1000,
                 "Range": 17,
-                "Damage": 225,
+                "Damage": 300,
                 "Cooldown": 3,
                 "Poison": 15,
                 "PoisonLength": 3
             },
             {
-                "Price": 1000,
+                "Price": 2000,
                 "Range": 20,
-                "Damage": 250,
+                "Damage": 300,
                 "Cooldown": 3,
                 "Poison": 20,
                 "PoisonLength": 3
             },
             {
-                "Price": 1200,
+                "Price": 4000,
                 "Range": 25,
-                "Damage": 300,
+                "Damage": 400,
                 "Cooldown": 2,
                 "Poison": 30,
                 "PoisonLength": 3
