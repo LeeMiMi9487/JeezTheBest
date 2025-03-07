@@ -3707,28 +3707,28 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 0,
                 "Cooldown": 4,
                 "Farm": 100
             },
             {
                 "Price": 1500,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 0,
                 "Cooldown": 4,
                 "Farm": 200
             },
             {
                 "Price": 2000,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 0,
                 "Cooldown": 4,
                 "Farm": 400
             },
             {
                 "Price": 3000,
                 "Range": 15,
-                "Damage": 100,
+                "Damage": 0,
                 "Cooldown": 4,
                 "Farm": 600
             }
