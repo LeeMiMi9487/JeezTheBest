@@ -1,4 +1,43 @@
 {
+     "Bacon Boy": {
+        "Type": "Single",
+        "Image": "rbxassetid://126930222419635",
+        "Rarity": "Common",
+        "PlacePrice": 300,
+        "Max": 8,
+        "Offset": 0,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 8,   
+                "Damage": 15,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 350,
+                "Range": 9,
+                "Damage": 25,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 550,
+                "Range": 11,
+                "Damage": 50,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 850,
+                "Range": 12,
+                "Damage": 65,
+                "Cooldown": 0.5
+            }
+        ]
+    },
     "Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
