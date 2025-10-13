@@ -87,7 +87,7 @@
         "Rarity": "Uncommon",
         "PlacePrice": 300,
         "Max": 5,
-        "Offset": 0,
+        "Offset": -0.8,
         "hitboxOffset": { 
             "X": 0, 
             "Y": 0,
@@ -116,6 +116,18 @@
                 "Price": 850,
                 "Range": 15,
                 "Damage": 100,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1100,
+                "Range": 15,
+                "Damage": 120,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1350,
+                "Range": 15,
+                "Damage": 150,
                 "Cooldown": 1
             }
         ]
