@@ -1,4 +1,47 @@
 {
+       "Farmer": {
+        "Type": "Farm",
+        "Image": "rbxassetid://",
+        "Rarity": "Epic",
+        "PlacePrice": 200,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "NoEnemyAttack": true,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 2,
+                "Farm": 25
+            },
+            {
+                "Price": 500,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 2,
+                "Farm": 50
+            },
+            {
+                "Price": 1000,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 2,
+                "Farm": 75
+            },
+            {
+                "Price": 2000,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 2,
+                "Farm": 100
+            }
+        ]
+    },
       "Guest": {
         "Type": "Single",
         "Image": "rbxassetid://125657797305149",
