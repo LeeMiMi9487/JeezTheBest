@@ -87,7 +87,7 @@
         "Rarity": "Uncommon",
         "PlacePrice": 300,
         "Max": 5,
-        "Offset": -1,
+        "Offset": 0,
         "hitboxOffset": { 
             "X": 0, 
             "Y": 0,
