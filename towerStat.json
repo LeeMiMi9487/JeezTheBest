@@ -42,6 +42,108 @@
             }
         ]
     },
+        "RPG Soldier": {
+        "Type": "AOE",
+        "Image": "rbxassetid://89008602134897",
+        "Rarity": "Mythic",
+        "PlacePrice": 2000,
+        "Max": 2,
+        "Offset": 0,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,   
+                "Damage": 500,
+                "Cooldown": 10
+            },
+            {
+                "Price": 1000,
+                "Range": 30,
+                "Damage": 600,
+                "Cooldown": 10
+            },
+            {
+                "Price": 2000,
+                "Range": 30,
+                "Damage": 700,
+                "Cooldown": 10
+            },
+            {
+                "Price": 3000,
+                "Range": 35,
+                "Damage": 800,
+                "Cooldown": 10
+            },
+            {
+                "Price": 4000,
+                "Range": 40,
+                "Damage": 900,
+                "Cooldown": 10
+            },
+            {
+                "Price": 5000,
+                "Range": 40,
+                "Damage": 1000,
+                "Cooldown": 10
+            }
+        ]
+    },
+       "Sniper": {
+        "Type": "Single",
+        "Image": "rbxassetid://98840774131517",
+        "Rarity": "Mythic",
+        "PlacePrice": 1200,
+        "Max": 4,
+        "Offset": 0,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,   
+                "Damage": 250,
+                "Cooldown": 6
+            },
+            {
+                "Price": 500,
+                "Range": 30,
+                "Damage": 350,
+                "Cooldown": 6
+            },
+            {
+                "Price": 1000,
+                "Range": 30,
+                "Damage": 400,
+                "Cooldown": 5.5
+            },
+            {
+                "Price": 2000,
+                "Range": 35,
+                "Damage": 450,
+                "Cooldown": 5.5
+            },
+            {
+                "Price": 3500,
+                "Range": 40,
+                "Damage": 550,
+                "Cooldown": 5
+            },
+            {
+                "Price": 5000,
+                "Range": 40,
+                "Damage": 700,
+                "Cooldown": 5
+            }
+        ]
+    },
        "Shotgunner": {
         "Type": "AOE",
         "Image": "rbxassetid://103723179852707",
