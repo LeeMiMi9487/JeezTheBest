@@ -43,7 +43,7 @@
         ]
     },
        "Shotgunner": {
-        "Type": "Splash",
+        "Type": "AOE",
         "Image": "rbxassetid://103723179852707",
         "Rarity": "Epic",
         "PlacePrice": 800,
