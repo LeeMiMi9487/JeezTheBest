@@ -42,6 +42,90 @@
             }
         ]
     },
+       "Rifle Soldier": {
+        "Type": "Single",
+        "Image": "rbxassetid://98115635482242",
+        "Rarity": "Epic",
+        "PlacePrice": 600,
+        "Max": 4,
+        "Offset": 0,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,   
+                "Damage": 40,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 650,
+                "Range": 20,
+                "Damage": 60,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 850,
+                "Range": 20,
+                "Damage": 85,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 110,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 1500,
+                "Range": 25,
+                "Damage": 140,
+                "Cooldown": 0.5
+            }
+        ]
+    },
+       "Pistol Soldier": {
+        "Type": "Single",
+        "Image": "rbxassetid://98115635482242",
+        "Rarity": "Rare",
+        "PlacePrice": 450,
+        "Max": 4,
+        "Offset": 0,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,   
+                "Damage": 55,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 500,
+                "Range": 15,
+                "Damage": 75,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 800,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 125,
+                "Cooldown": 1.5
+            }
+        ]
+    },
       "Guest": {
         "Type": "Single",
         "Image": "rbxassetid://125657797305149",
