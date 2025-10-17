@@ -42,6 +42,51 @@
             }
         ]
     },
+       "Shotgunner": {
+        "Type": "Splash",
+        "Image": "rbxassetid://103723179852707",
+        "Rarity": "Epic",
+        "PlacePrice": 800,
+        "Max": 4,
+        "Offset": 0,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,   
+                "Damage": 100,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1000,
+                "Range": 12,
+                "Damage": 150,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1350,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 2
+            },
+            {
+                "Price": 1750,
+                "Range": 15,
+                "Damage": 220,
+                "Cooldown": 2
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 2
+            }
+        ]
+    },
        "Rifle Soldier": {
         "Type": "Single",
         "Image": "rbxassetid://98115635482242",
