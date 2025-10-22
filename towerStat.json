@@ -42,63 +42,6 @@
             }
         ]
     },
-        "OnePunch Man": {
-        "Type": "Single",
-        "Image": "rbxassetid://135623723893478",
-        "Rarity": "Nightmare",
-        "PlacePrice": 10000,
-        "Max": 2,
-        "Offset": 0,
-        "hitboxOffset": { 
-            "X": 0, 
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 30,   
-                "Damage": 1000,
-                "Cooldown": 2.5
-            },
-            {
-                "Price": 12500,
-                "Range": 30,
-                "Damage": 1150,
-                "Cooldown": 2.5
-            },
-            {
-                "Price": 17500,
-                "Range": 30,
-                "Damage": 1350,
-                "Cooldown": 2
-            },
-            {
-                "Price": 20000,
-                "Range": 35,
-                "Damage": 1550,
-                "Cooldown": 2
-            },
-            {
-                "Price": 22500,
-                "Range": 40,
-                "Damage": 1650,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 25000,
-                "Range": 40,
-                "Damage": 1750,
-                "Cooldown": 1.5
-            },
-            {
-               "Price": 30000,
-               "Range": 45,
-               "Damage": 2000,
-               "Cooldown": 1
-            }
-        ]
-    },
        "Red Duck": {
         "Type": "Support",
         "Image": "rbxassetid://135623723893478",
