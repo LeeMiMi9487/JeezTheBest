@@ -42,6 +42,149 @@
             }
         ]
     },
+        "OnePunch Man": {
+        "Type": "Single",
+        "Image": "rbxassetid://",
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
+        "Max": 2,
+        "Offset": 0,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,   
+                "Damage": 1000,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 12500,
+                "Range": 30,
+                "Damage": 1150,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 17500,
+                "Range": 30,
+                "Damage": 1350,
+                "Cooldown": 2
+            },
+            {
+                "Price": 20000,
+                "Range": 35,
+                "Damage": 1550,
+                "Cooldown": 2
+            },
+            {
+                "Price": 22500,
+                "Range": 40,
+                "Damage": 1650,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 25000,
+                "Range": 40,
+                "Damage": 1750,
+                "Cooldown": 1.5
+            },
+            {
+               "Price": 30000,
+               "Range": 45,
+               "Damage": 2000,
+               "Cooldown": 1
+            }
+        ]
+    },
+       "Red Duck": {
+        "Type": "Support",
+        "Image": "rbxassetid://",
+        "Rarity": "Secret",
+        "PlacePrice": 4000,
+        "Max": 1,
+        "Offset": 0,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,   
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.05
+            },
+            {
+                "Price": 4000,
+                "Range": 20,   
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.10
+            },
+            {
+                 "Price": 6000,
+                "Range": 30,   
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.15
+            },
+            {
+                 "Price": 10000,
+                "Range": 30,   
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.25
+            }
+        ]
+    },
+        "Blue Duck": {
+        "Type": "Support",
+        "Image": "rbxassetid://",
+        "Rarity": "Secret",
+        "PlacePrice": 4000,
+        "Max": 1,
+        "Offset": 0,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,   
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 4000,
+                "Range": 20,   
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.10
+            },
+            {
+                 "Price": 6000,
+                "Range": 30,   
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.15
+            },
+            {
+                 "Price": 10000,
+                "Range": 30,   
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.25
+            }
+        ]
+    },
         "RPG Soldier": {
         "Type": "AOE",
         "Image": "rbxassetid://89008602134897",
