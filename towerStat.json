@@ -290,7 +290,7 @@
         ]
     },
        "Shotgunner": {
-        "Type": "AOE",
+        "Type": "Explosion",
         "Image": "rbxassetid://103723179852707",
         "Rarity": "Epic",
         "PlacePrice": 800,
