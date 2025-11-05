@@ -43,7 +43,7 @@
         ]
     },
         "OnePunch Man": {
-        "Type": "Single",
+        "Type": "Physical",
         "Image": "rbxassetid://133554214926548",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
@@ -188,7 +188,7 @@
         ]
     },
         "RPG Soldier": {
-        "Type": "AOE",
+        "Type": "Physical",
         "Image": "rbxassetid://89008602134897",
         "Rarity": "Mythic",
         "PlacePrice": 2000,
@@ -290,7 +290,7 @@
         ]
     },
        "Shotgunner": {
-        "Type": "AOE",
+        "Type": "Physical",
         "Image": "rbxassetid://103723179852707",
         "Rarity": "Epic",
         "PlacePrice": 800,
@@ -335,7 +335,7 @@
         ]
     },
        "Rifle Soldier": {
-        "Type": "Single",
+        "Type": "Physical",
         "Image": "rbxassetid://98115635482242",
         "Rarity": "Epic",
         "PlacePrice": 600,
@@ -380,7 +380,7 @@
         ]
     },
        "Pistol Soldier": {
-        "Type": "Single",
+        "Type": "Physical",
         "Image": "rbxassetid://98115635482242",
         "Rarity": "Rare",
         "PlacePrice": 450,
@@ -419,7 +419,7 @@
         ]
     },
       "Guest": {
-        "Type": "Single",
+        "Type": "Physical",
         "Image": "rbxassetid://125657797305149",
         "Rarity": "Rare",
         "PlacePrice": 400,
@@ -458,7 +458,7 @@
         ]
     },
       "Noob": {
-        "Type": "Single",
+        "Type": "Magical",
         "Image": "rbxassetid://124225668147081",
         "Rarity": "Uncommon",
         "PlacePrice": 300,
@@ -497,7 +497,7 @@
         ]
     },
       "Bacon Girl": {
-        "Type": "Single",
+        "Type": "Physical",
         "Image": "rbxassetid://132924747361776",
         "Rarity": "Uncommon",
         "PlacePrice": 300,
@@ -536,7 +536,7 @@
         ]
     },
      "Bacon Boy": {
-        "Type": "Single",
+        "Type": "Physical",
         "Image": "rbxassetid://125937115404974",
         "Rarity": "Uncommon",
         "PlacePrice": 300,
