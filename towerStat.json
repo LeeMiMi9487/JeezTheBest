@@ -239,7 +239,7 @@
         ]
     },
        "Sniper": {
-        "Type": "Single",
+        "Type": "Physical",
         "Image": "rbxassetid://98113656334850",
         "Rarity": "Mythic",
         "PlacePrice": 1200,
