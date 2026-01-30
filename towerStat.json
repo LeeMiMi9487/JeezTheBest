@@ -102,7 +102,7 @@
        "Red Duck": {
         "Type": "Support",
         "Image": "rbxassetid://135623723893478",
-        "Rarity": "Legendary",
+        "Rarity": "Secret",
         "PlacePrice": 4000,
         "Max": 1,
         "Offset": 0,
@@ -146,7 +146,7 @@
         "Blue Duck": {
         "Type": "Support",
         "Image": "rbxassetid://82481846504577",
-        "Rarity": "Secret",
+        "Rarity": "Legendary",
         "PlacePrice": 4000,
         "Max": 1,
         "Offset": 0,
