@@ -1,4 +1,178 @@
 {
+       "Icigo": {
+        "Type": "Physical",
+        "Image": "rbxassetid://",
+        "Rarity": "Epic",
+        "PlacePrice": 525,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 62,
+                "Cooldown": 2
+            },
+            {
+                 "Price": 850,
+                "Range": 13,
+                "Damage": 84,
+                "Cooldown": 1.8
+            },
+            {
+                 "Price": 1200,
+                "Range": 15,
+                "Damage": 101,
+                "Cooldown": 1.5
+            },
+            {
+                 "Price": 1550,
+                "Range": 18,
+                "Damage": 117,
+                "Cooldown": 1.2
+            }
+        ]
+    },
+       "Vegeta": {
+        "Type": "Magical",
+        "Image": "rbxassetid://",
+        "Rarity": "Rare",
+        "PlacePrice": 500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 42,
+                "Cooldown": 2.5
+            },
+            {
+                 "Price": 825,
+                "Range": 14,
+                "Damage": 57,
+                "Cooldown": 2.2
+            },
+            {
+                 "Price": 1150,
+                "Range": 17,
+                "Damage": 71,
+                "Cooldown": 2
+            }
+        ]
+    },
+       "Nami": {
+        "Type": "Support",
+        "Image": "rbxassetid://",
+        "Rarity": "Epic",
+        "PlacePrice": 500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "NoEnemyAttack": true,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 0,
+                "Cooldown": 0,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 1000,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 0,
+                "RangeBoost": 1.10
+            },
+            {
+                "Price": 2000,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 0,
+                "RangeBoost": 1.15
+            }
+        ]
+    },
+       "TanTan": {
+        "Type": "Physical",
+        "Image": "rbxassetid://",
+        "Rarity": "Uncommon",
+        "PlacePrice": 300,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 8,
+                "Damage": 18,
+                "Cooldown": 1
+            },
+            {
+                 "Price": 500,
+                "Range": 9,
+                "Damage": 26,
+                "Cooldown": 0.9
+            },
+            {
+                 "Price": 650,
+                "Range": 10,
+                "Damage": 37,
+                "Cooldown": 0.8
+            }
+        ]
+    },
+        "Buma": {
+        "Type": "Farm",
+        "Image": "rbxassetid://",
+        "Rarity": "Epic",
+        "PlacePrice": 400,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "NoEnemyAttack": true,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 5,
+                "Farm": 100
+            },
+            {
+                "Price": 800,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 5,
+                "Farm": 150
+            },
+            {
+                "Price": 1500,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 5,
+                "Farm": 250
+            }
+        ]
+    },
        "Farmer": {
         "Type": "Farm",
         "Image": "rbxassetid://105468393407250",
