@@ -1,4 +1,36 @@
 {
+       "Rukia": {
+        "Type": "Physical",
+        "Image": "rbxassetid://",
+        "Rarity": "Rare",
+        "PlacePrice": 400,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 13,
+                "Damage": 24,
+                "Cooldown": 3.2
+            },
+            {
+                 "Price": 750,
+                "Range": 16,
+                "Damage": 40,
+                "Cooldown": 3.1
+            },
+            {
+                 "Price": 1000,
+                "Range": 18,
+                "Damage": 54,
+                "Cooldown": 2.8
+            }
+        ]
+    },
        "Aqua": {
         "Type": "Support",
         "Image": "rbxassetid://",
