@@ -1,4 +1,48 @@
 {
+       "Aqua": {
+        "Type": "Support",
+        "Image": "rbxassetid://",
+        "Rarity": "Legendary",
+        "PlacePrice": 1000,
+        "Max": 1,
+        "Offset": 0,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "NoEnemyAttack": true,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,   
+                "Damage": 0,
+                "Cooldown": 0,
+                "DamageBoost": 1.1
+            },
+            {
+                "Price": 2000,
+                "Range": 20,   
+                "Damage": 0,
+                "Cooldown": 0,
+                "DamageBoost": 1.15
+            },
+            {
+                 "Price": 4000,
+                "Range": 30,   
+                "Damage": 0,
+                "Cooldown": 0,
+                "DamageBoost": 1.2
+            },
+            {
+                 "Price": 6000,
+                "Range": 30,   
+                "Damage": 0,
+                "Cooldown": 0,
+                "DamageBoost": 1.25
+            }
+        ]
+    },
        "Speedcart": {
         "Type": "Farm",
         "Image": "rbxassetid://",
