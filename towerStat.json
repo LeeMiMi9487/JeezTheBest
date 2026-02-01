@@ -17,28 +17,28 @@
                 "Range": 0,
                 "Damage": 0,
                 "Cooldown": 5,
-                "Farm": 200
+                "Farm": 350
             },
             {
                 "Price": 1350,
                 "Range": 0,
                 "Damage": 0,
                 "Cooldown": 5,
-                "Farm": 300
+                "Farm": 525
             },
             {
                 "Price": 2000,
                 "Range": 0,
                 "Damage": 0,
                 "Cooldown": 5,
-                "Farm": 400
+                "Farm": 700
             },
             {
                 "Price": 4000,
                 "Range": 0,
                 "Damage": 0,
                 "Cooldown": 5,
-                "Farm": 525
+                "Farm": 1000
             }
         ]
     },
@@ -58,25 +58,25 @@
                 "Price": 0,
                 "Range": 10,
                 "Damage": 62,
-                "Cooldown": 2
+                "Cooldown": 4.2
             },
             {
                  "Price": 850,
                 "Range": 13,
                 "Damage": 84,
-                "Cooldown": 1.8
+                "Cooldown": 4.1
             },
             {
                  "Price": 1200,
                 "Range": 15,
                 "Damage": 101,
-                "Cooldown": 1.5
+                "Cooldown": 3.8
             },
             {
                  "Price": 1550,
                 "Range": 18,
                 "Damage": 117,
-                "Cooldown": 1.2
+                "Cooldown": 3.5
             }
         ]
     },
@@ -96,19 +96,19 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 42,
-                "Cooldown": 2.5
+                "Cooldown": 4
             },
             {
                  "Price": 825,
                 "Range": 23,
                 "Damage": 57,
-                "Cooldown": 2.2
+                "Cooldown": 3.6
             },
             {
                  "Price": 1150,
                 "Range": 25,
                 "Damage": 71,
-                "Cooldown": 2
+                "Cooldown": 3.4
             }
         ]
     },
