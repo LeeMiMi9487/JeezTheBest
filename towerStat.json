@@ -1,4 +1,47 @@
 {
+       "Speedcart": {
+        "Type": "Farm",
+        "Image": "rbxassetid://",
+        "Rarity": "Legendary",
+        "PlacePrice": 800,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "NoEnemyAttack": true,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 5,
+                "Farm": 200
+            },
+            {
+                "Price": 1350,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 5,
+                "Farm": 300
+            },
+            {
+                "Price": 2000,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 5,
+                "Farm": 400
+            },
+            {
+                "Price": 4000,
+                "Range": 0,
+                "Damage": 0,
+                "Cooldown": 5,
+                "Farm": 525
+            }
+        ]
+    },
        "Icigo": {
         "Type": "Physical",
         "Image": "rbxassetid://",
