@@ -1,4 +1,106 @@
 {
+       "Obito": {
+        "Type": "Magical",
+        "Update": 1,
+        "Image": "rbxassetid://",
+        "Rarity": "Secret",
+        "PlacePrice": 2500,
+        "Max": 2,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 27,   
+                "Damage": 384,
+                "Cooldown": 4.8
+            },
+            {
+                "Price": 2500,
+                "Range": 27,
+                "Damage": 567,
+                "Cooldown": 4.6
+            },
+            {
+                "Price": 4000,
+                "Range": 30,
+                "Damage": 883,
+                "Cooldown": 4.5
+            },
+            {
+                "Price": 5000,
+                "Range": 30,
+                "Damage": 1149,
+                "Cooldown": 4.5
+            },
+            {
+                "Price": 7500,
+                "Range": 35,
+                "Damage": 1420,
+                "Cooldown": 4
+            },
+            {
+                "Price": 7500,
+                "Range": 35,
+                "Damage": 1599,
+                "Cooldown": 4
+            }
+        ]
+    },
+       "Minato": {
+        "Type": "Physical",
+        "Update": 1,
+        "Image": "rbxassetid://",
+        "Rarity": "Mythic",
+        "PlacePrice": 1400,
+        "Max": 2,
+        "hitboxOffset": { 
+            "X": 0, 
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 18,   
+                "Damage": 188,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 2000,
+                "Range": 21,
+                "Damage": 271,
+                "Cooldown": 3.3
+            },
+            {
+                "Price": 2400,
+                "Range": 22,
+                "Damage": 400,
+                "Cooldown": 3.2
+            },
+            {
+                "Price": 3500,
+                "Range": 25,
+                "Damage": 549,
+                "Cooldown": 3
+            },
+            {
+                "Price": 5000,
+                "Range": 25,
+                "Damage": 688,
+                "Cooldown": 3
+            },
+            {
+                "Price": 5600,
+                "Range": 25,
+                "Damage": 847,
+                "Cooldown": 2.7
+            }
+        ]
+    },
        "Rukia": {
         "Type": "Physical",
         "Update": 1,
@@ -307,7 +409,6 @@
         "Rarity": "Mythic",
         "PlacePrice": 2000,
         "Max": 2,
-        "Offset": 0,
         "hitboxOffset": { 
             "X": 0, 
             "Y": 0,
