@@ -1,6 +1,7 @@
 {
        "Rukia": {
         "Type": "Physical",
+        "Update": 1,
         "Image": "rbxassetid://",
         "Rarity": "Rare",
         "PlacePrice": 400,
@@ -33,6 +34,7 @@
     },
        "Aqua": {
         "Type": "Support",
+        "Update": 1,
         "Image": "rbxassetid://",
         "Rarity": "Legendary",
         "PlacePrice": 1000,
@@ -77,6 +79,7 @@
     },
        "Speedcart": {
         "Type": "Farm",
+        "Update": 1,
         "Image": "rbxassetid://",
         "Rarity": "Legendary",
         "PlacePrice": 800,
@@ -120,6 +123,7 @@
     },
        "Icigo": {
         "Type": "Physical",
+        "Update": 1,
         "Image": "rbxassetid://",
         "Rarity": "Epic",
         "PlacePrice": 525,
@@ -158,6 +162,7 @@
     },
        "Vegeta": {
         "Type": "Magical",
+        "Update": 1,
         "Image": "rbxassetid://",
         "Rarity": "Rare",
         "PlacePrice": 500,
@@ -190,6 +195,7 @@
     },
        "Nami": {
         "Type": "Support",
+        "Update": 1,
         "Image": "rbxassetid://",
         "Rarity": "Epic",
         "PlacePrice": 500,
@@ -226,6 +232,7 @@
     },
        "TanTan": {
         "Type": "Physical",
+        "Update": 1,
         "Image": "rbxassetid://",
         "Rarity": "Uncommon",
         "PlacePrice": 300,
@@ -258,6 +265,7 @@
     },
         "Buma": {
         "Type": "Farm",
+        "Update": 1,
         "Image": "rbxassetid://",
         "Rarity": "Epic",
         "PlacePrice": 400,
@@ -292,54 +300,12 @@
             }
         ]
     },
-       "Farmer": {
-        "Type": "Farm",
-        "Image": "rbxassetid://105468393407250",
-        "Rarity": "Epic",
-        "PlacePrice": 200,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "NoEnemyAttack": true,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 2,
-                "Farm": 25
-            },
-            {
-                "Price": 500,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 2,
-                "Farm": 50
-            },
-            {
-                "Price": 1000,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 2,
-                "Farm": 75
-            },
-            {
-                "Price": 2000,
-                "Range": 0,
-                "Damage": 0,
-                "Cooldown": 2,
-                "Farm": 100
-            }
-        ]
-    },
         "OnePunch Man": {
         "Type": "Physical",
-        "Image": "rbxassetid://133554214926548",
-        "Rarity": "King",
-        "PlacePrice": 10000,
+        "Update": 1,
+        "Image": "rbxassetid://",
+        "Rarity": "Mythic",
+        "PlacePrice": 2000,
         "Max": 2,
         "Offset": 0,
         "hitboxOffset": { 
@@ -350,45 +316,39 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,   
-                "Damage": 1000,
+                "Range": 21,   
+                "Damage": 241,
+                "Cooldown": 2.8
+            },
+            {
+                "Price": 1500,
+                "Range": 24,
+                "Damage": 329,
                 "Cooldown": 2.5
             },
             {
-                "Price": 10000,
+                "Price": 2500,
+                "Range": 25,
+                "Damage": 422,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 3600,
+                "Range": 26,
+                "Damage": 538,
+                "Cooldown": 2.3
+            },
+            {
+                "Price": 5000,
                 "Range": 30,
-                "Damage": 1150,
-                "Cooldown": 2.5
+                "Damage": 643,
+                "Cooldown": 2.1
             },
             {
-                "Price": 12500,
-                "Range": 35,
-                "Damage": 1350,
-                "Cooldown": 2.5
-            },
-            {
-                "Price": 15000,
-                "Range": 35,
-                "Damage": 1500,
+                "Price": 6000,
+                "Range": 30,
+                "Damage": 759,
                 "Cooldown": 2
-            },
-            {
-                "Price": 17500,
-                "Range": 40,
-                "Damage": 1750,
-                "Cooldown": 2
-            },
-            {
-                "Price": 20000,
-                "Range": 40,
-                "Damage": 1850,
-                "Cooldown": 1.5
-            },
-            {
-                "Price": 25000,
-                "Range": 40,
-                "Damage": 2000,
-                "Cooldown": 1
             }
         ]
     },
