@@ -473,7 +473,10 @@
                 "SummonTime": 20,
                 "Health": 100,
                 "WalkSpeed": 6,
-                "Unit": "Asimo"
+                "Unit": "Asimo",
+                "SummonRange": 0,
+                "SummonDamage": 0,
+                "SummonCooldown": 0
             },
             {
                 "Price": 2400,
@@ -483,7 +486,10 @@
                 "SummonTime": 20,
                 "Health": 150,
                 "WalkSpeed": 6,
-                "Unit": "Asimo"
+                "Unit": "Asimo",
+                "SummonRange": 0,
+                "SummonDamage": 0,
+                "SummonCooldown": 0
             },
             {
                 "Price": 3500,
@@ -493,7 +499,10 @@
                 "SummonTime": 20,
                 "Health": 200,
                 "WalkSpeed": 6,
-                "Unit": "Asimo"
+                "Unit": "Asimo",
+                "SummonRange": 0,
+                "SummonDamage": 0,
+                "SummonCooldown": 0
             },
             {
                 "Price": 5000,
@@ -503,7 +512,10 @@
                 "SummonTime": 20,
                 "Health": 250,
                 "WalkSpeed": 6,
-                "Unit": "Asimo"
+                "Unit": "Asimo",
+                "SummonRange": 0,
+                "SummonDamage": 0,
+                "SummonCooldown": 0
             },
             {
                 "Price": 7000,
@@ -513,7 +525,10 @@
                 "SummonTime": 20,
                 "Health": 300,
                 "WalkSpeed": 6,
-                "Unit": "Asimo"
+                "Unit": "Asimo",
+                "SummonRange": 0,
+                "SummonDamage": 0,
+                "SummonCooldown": 0
             },
             {
                 "Price": 8000,
@@ -523,7 +538,10 @@
                 "SummonTime": 20,
                 "Health": 350,
                 "WalkSpeed": 6,
-                "Unit": "Asimo"
+                "Unit": "Asimo",
+                "SummonRange": 0,
+                "SummonDamage": 0,
+                "SummonCooldown": 0
             },
             {
                 "Price": 9000,
@@ -533,7 +551,10 @@
                 "SummonTime": 20,
                 "Health": 400,
                 "WalkSpeed": 6,
-                "Unit": "Asimo"
+                "Unit": "Asimo",
+                "SummonRange": 0,
+                "SummonDamage": 0,
+                "SummonCooldown": 0
             },
             {
                 "Price": 10000,
@@ -543,7 +564,10 @@
                 "SummonTime": 20,
                 "Health": 450,
                 "WalkSpeed": 6,
-                "Unit": "Asimo"
+                "Unit": "Asimo",
+                "SummonRange": 0,
+                "SummonDamage": 0,
+                "SummonCooldown": 0
             }
         ]
     }
