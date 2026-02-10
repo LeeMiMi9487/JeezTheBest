@@ -141,6 +141,7 @@
         "Rarity": "Legendary",
         "PlacePrice": 1000,
         "Max": 1,
+        "Offest": -1,
         "hitboxOffset": { 
             "X": 0, 
             "Y": 0,
