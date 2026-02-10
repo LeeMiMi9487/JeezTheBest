@@ -473,7 +473,7 @@
                 "SummonTime": 20,
                 "Health": 100,
                 "WalkSpeed": 6,
-                "Unit": "Asimo",
+                "Unit": "Asimo"
             },
             {
                 "Price": 2400,
@@ -483,7 +483,7 @@
                 "SummonTime": 20,
                 "Health": 150,
                 "WalkSpeed": 6,
-                "Unit": "Asimo",
+                "Unit": "Asimo"
             },
             {
                 "Price": 3500,
@@ -493,7 +493,7 @@
                 "SummonTime": 20,
                 "Health": 200,
                 "WalkSpeed": 6,
-                "Unit": "Asimo",
+                "Unit": "Asimo"
             },
             {
                 "Price": 5000,
@@ -503,7 +503,7 @@
                 "SummonTime": 20,
                 "Health": 250,
                 "WalkSpeed": 6,
-                "Unit": "Asimo",
+                "Unit": "Asimo"
             },
             {
                 "Price": 7000,
@@ -513,7 +513,7 @@
                 "SummonTime": 20,
                 "Health": 300,
                 "WalkSpeed": 6,
-                "Unit": "Asimo",
+                "Unit": "Asimo"
             },
             {
                 "Price": 8000,
@@ -523,7 +523,7 @@
                 "SummonTime": 20,
                 "Health": 350,
                 "WalkSpeed": 6,
-                "Unit": "Asimo",
+                "Unit": "Asimo"
             },
             {
                 "Price": 9000,
@@ -533,7 +533,7 @@
                 "SummonTime": 20,
                 "Health": 400,
                 "WalkSpeed": 6,
-                "Unit": "Asimo",
+                "Unit": "Asimo"
             },
             {
                 "Price": 10000,
@@ -543,7 +543,7 @@
                 "SummonTime": 20,
                 "Health": 450,
                 "WalkSpeed": 6,
-                "Unit": "Asimo",
+                "Unit": "Asimo"
             }
         ]
     }
